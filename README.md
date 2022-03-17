@@ -1,4 +1,4 @@
-Thsi is the github profile for @MSingh29xl.
+This is the github profile for @MSingh29xl.
 
 <!---
 MSingh29xl/MSingh29xl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
