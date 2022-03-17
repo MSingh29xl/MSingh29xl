@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @MSingh29xl
-- 👀 I’m interested in computing.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Thsi is the github profile for @MSingh29xl.
 
 <!---
 MSingh29xl/MSingh29xl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
